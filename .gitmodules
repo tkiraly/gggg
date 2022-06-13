@@ -1,3 +1,6 @@
 [submodule "rock-paper-scissors"]
 	path = rock-paper-scissors
 	url = https://github.com/cameronmcnz/rock-paper-scissors.git
+[submodule "aaa/ttt"]
+	path = aaa/ttt
+	url = git@github.com:tkiraly/gggg.git
